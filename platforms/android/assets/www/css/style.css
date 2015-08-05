@@ -1,0 +1,13 @@
+body {
+    background: #1d1d1d;
+    color: #FFF;
+    font-family: Verdana;
+    font-size: 14px;
+}
+.navbar-default {
+    background-color: #1d1d1d;
+    border-color: green;
+}
+.jumbotron{
+    background-color: transparent ;
+}
