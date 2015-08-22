@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.mozgovoy.enman" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>ENman</name>
+<widget id="com.mozgovoy.nightgamesbook" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>NGBook</name>
     <description>
-        Приложение для полевиков Encounter.
+        Приложение для полевиков. Игровые проекты Night Games.
     </description>
     <author email="mozgovoy.andrey@gmail.com" href="http://devcentr.ru">
         Mozgovoy Andrey
