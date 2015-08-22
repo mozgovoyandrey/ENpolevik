@@ -30,6 +30,18 @@ scotchApp.config(function($routeProvider) {
 		.when('/ruseng', {
 			templateUrl : 'pages/alfavit/alfavit.html',
 			//controller  : 'contactController'
+		})
+		.when('/slovo', {
+			templateUrl : 'pages/golovolomka/slovo.html',
+			//controller  : 'contactController'
+		})
+		.when('/kubrai', {
+			templateUrl : 'pages/golovolomka/kubrai.html',
+			//controller  : 'contactController'
+		})
+		.when('/rebus', {
+			templateUrl : 'pages/golovolomka/rebus.html',
+			//controller  : 'contactController'
 		});
 });
 

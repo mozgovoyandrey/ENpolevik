@@ -11,3 +11,8 @@ body {
 .jumbotron{
     background-color: transparent ;
 }
+.tbl-border td {
+	border: 1px solid white;
+	text-align: center; 
+	width: 30px;
+}

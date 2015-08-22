@@ -8,10 +8,10 @@
     <allow-intent href="market:*" />
     <name>ENman</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Приложение для полевиков Encounter.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="mozgovoy.andrey@gmail.com" href="http://devcentr.ru">
+        Mozgovoy Andrey
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
